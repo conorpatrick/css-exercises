@@ -1,0 +1,18 @@
+.oddNumbered{
+    background-color: rgb(231, 139, 139);
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+}
+
+#div2{
+    color: blue;
+    font-size: 36px;
+}
+
+.size24{
+    font-size: 24px;
+}
+
+#fourth{
+    background-color: rgb(47, 136, 47, .50);
+    font-weight: 800;
+}
